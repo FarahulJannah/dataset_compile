@@ -1,0 +1,848 @@
+year,confirmed_od_type,industry,sub_industry,no._of_cases
+2011,Barotrauma,Construction,Construction of Buildings,2
+2011,Cancers,Construction,Construction of Buildings,1
+2011,Cancers,Transportation & Storage,Logistics and Transport,1
+2011,Cancers,Transportation & Storage,Warehousing & Support Activities for Transportation excluding Logistics and Transport,1
+2011,Compressed Air Illness,Construction,Construction of Buildings,1
+2011,Compressed Air Illness,Construction,Specialised Construction Activites,1
+2011,Compressed Air Illness,Manufacturing,Other Manufacturing,1
+2011,Compressed Air Illness,Marine,Marine,1
+2011,Compressed Air Illness,Transportation & Storage,Logistics and Transport,2
+2011,Ex Absorption of Chemicals,Accommodation & Food Services,Accommodation,1
+2011,Ex Absorption of Chemicals,"Community, Social & Personal Services",Other Personal Service Activities,2
+2011,Ex Absorption of Chemicals,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",3
+2011,Ex Absorption of Chemicals,Manufacturing,Metalworking,1
+2011,Ex Absorption of Chemicals,Manufacturing,Manufacture od Petrochemical Products,3
+2011,Infectious Disease,Manufacturing,Other Manufacturing,1
+2011,Noise Induced Deafness,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",2
+2011,Noise Induced Deafness,"Community, Social & Personal Services",Education,1
+2011,Noise Induced Deafness,"Community, Social & Personal Services",Health Activities,1
+2011,Noise Induced Deafness,"Community, Social & Personal Services",Other Personal Service Activities,5
+2011,Noise Induced Deafness,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,28
+2011,Noise Induced Deafness,Construction,Civil Engineering,2
+2011,Noise Induced Deafness,Construction,Construction of Buildings,22
+2011,Noise Induced Deafness,Construction,Specialised Construction Activites,12
+2011,Noise Induced Deafness,"Electricity, Gas and Air-Conditioning Supply","Electricity, Gas and Air-Conditioning Supply",37
+2011,Noise Induced Deafness,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",4
+2011,Noise Induced Deafness,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",19
+2011,Noise Induced Deafness,Manufacturing,"Manufacture of Food, Beverages & Tobacco",13
+2011,Noise Induced Deafness,Manufacturing,Manufacture of Furniture,2
+2011,Noise Induced Deafness,Manufacturing,Metalworking,165
+2011,Noise Induced Deafness,Manufacturing,"Manufacture of Motor Vehicles, Trailers & Semi-Trailers",4
+2011,Noise Induced Deafness,Manufacturing,Manufacture of Non-Metallic Mineral Products,8
+2011,Noise Induced Deafness,Manufacturing,Other Manufacturing,2
+2011,Noise Induced Deafness,Manufacturing,Manufacture of Other Transport Equipment,88
+2011,Noise Induced Deafness,Manufacturing,Manufacture of Paper Products and Printing,12
+2011,Noise Induced Deafness,Manufacturing,Manufacture od Petrochemical Products,13
+2011,Noise Induced Deafness,Manufacturing,Manufacture of Pharmaceutical & Biological Products,12
+2011,Noise Induced Deafness,Manufacturing,Manufacture of Rubber & Plastic Products,5
+2011,Noise Induced Deafness,Manufacturing,"Manufacture of Wood & of Products of Wood & Cork, except Furniture; Manufacture of Articles of Straw & Plaiting Materials",1
+2011,Noise Induced Deafness,Marine,Marine,198
+2011,Noise Induced Deafness,Others,Activities Not Adequately Defined,2
+2011,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,2
+2011,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,11
+2011,Noise Induced Deafness,Transportation & Storage,Land Transport & Transport via Pipelines,2
+2011,Noise Induced Deafness,Transportation & Storage,Logistics and Transport,41
+2011,Noise Induced Deafness,Transportation & Storage,Water Transport,3
+2011,Noise Induced Deafness,"Water Supply, Sewerage & Waste Management",Sewerage,1
+2011,Noise Induced Deafness,"Water Supply, Sewerage & Waste Management","Waste Collection, Treatment & Disposal Activities; Materials Recovery",3
+2011,Noise Induced Deafness,"Water Supply, Sewerage & Waste Management","Water Collection, Treatment & Supply",1
+2011,Noise Induced Deafness,Wholesale & Retail Trade,Wholesale Trade,19
+2011,Occupational Lung Disease,"Community, Social & Personal Services",Health Activities,1
+2011,Occupational Lung Disease,Construction,Specialised Construction Activites,1
+2011,Occupational Lung Disease,Manufacturing,"Manufacture of Food, Beverages & Tobacco",3
+2011,Occupational Lung Disease,Marine,Marine,1
+2011,Occupational Lung Disease,"Professional, Scientific & Technical Activities",Scientific Research & Development,1
+2011,Occupational Lung Disease,Transportation & Storage,Land Transport & Transport via Pipelines,1
+2011,Occupational Lung Disease,Transportation & Storage,Logistics and Transport,1
+2011,Occupational Lung Disease,Wholesale & Retail Trade,Wholesale Trade,1
+2011,Occupational Skin Disease,Accommodation & Food Services,Food & Beverage Service Acitivities,3
+2011,Occupational Skin Disease,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,3
+2011,Occupational Skin Disease,"Community, Social & Personal Services",Health Activities,7
+2011,Occupational Skin Disease,"Community, Social & Personal Services",Other Personal Service Activities,5
+2011,Occupational Skin Disease,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,2
+2011,Occupational Skin Disease,"Community, Social & Personal Services",Sports Activities & Amusement & Recreation Activities,1
+2011,Occupational Skin Disease,Construction,Construction of Buildings,5
+2011,Occupational Skin Disease,Construction,Specialised Construction Activites,5
+2011,Occupational Skin Disease,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",2
+2011,Occupational Skin Disease,Manufacturing,Manufacture of Furniture,1
+2011,Occupational Skin Disease,Manufacturing,Metalworking,7
+2011,Occupational Skin Disease,Manufacturing,Other Manufacturing,2
+2011,Occupational Skin Disease,Manufacturing,Manufacture of Other Transport Equipment,4
+2011,Occupational Skin Disease,Manufacturing,Manufacture od Petrochemical Products,1
+2011,Occupational Skin Disease,Others,Activities Not Adequately Defined,2
+2011,Occupational Skin Disease,Real Estate Activities,Real Estate Activities,1
+2011,Occupational Skin Disease,Transportation & Storage,Logistics and Transport,1
+2011,Others,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",2
+2011,Others,Manufacturing,"Manufacture of Food, Beverages & Tobacco",5
+2011,Poisoning,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,1
+2011,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Accommodation,1
+2011,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Health Activities,1
+2011,Work-related Musculoskeletal Disorders,Information & Communications,"Computer Programming, Consultancy & Related Activities",1
+2011,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Food, Beverages & Tobacco",1
+2011,Work-related Musculoskeletal Disorders,Manufacturing,Other Manufacturing,1
+2011,Work-related Musculoskeletal Disorders,Transportation & Storage,Land Transport & Transport via Pipelines,1
+2012,Barotrauma,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2012,Barotrauma,Construction,Construction of Buildings,3
+2012,Barotrauma,Construction,Specialised Construction Activites,5
+2012,Barotrauma,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,1
+2012,Cancers,Construction,Construction of Buildings,1
+2012,Cancers,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",1
+2012,Cancers,Manufacturing,Metalworking,1
+2012,Cancers,Manufacturing,Other Manufacturing,1
+2012,Cancers,Marine,Marine,3
+2012,Compressed Air Illness,Construction,Construction of Buildings,5
+2012,Compressed Air Illness,Construction,Specialised Construction Activites,7
+2012,Ex Absorption of Chemicals,"Community, Social & Personal Services",Other Personal Service Activities,2
+2012,Ex Absorption of Chemicals,Manufacturing,Metalworking,1
+2012,Ex Absorption of Chemicals,Manufacturing,Manufacture of Other Transport Equipment,1
+2012,Infectious Disease,Construction,Construction of Buildings,1
+2012,Infectious Disease,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,1
+2012,Noise Induced Deafness,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,1
+2012,Noise Induced Deafness,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",3
+2012,Noise Induced Deafness,"Community, Social & Personal Services",Education,1
+2012,Noise Induced Deafness,"Community, Social & Personal Services",Other Personal Service Activities,3
+2012,Noise Induced Deafness,"Community, Social & Personal Services",Public Administration & Defence,1
+2012,Noise Induced Deafness,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,16
+2012,Noise Induced Deafness,Construction,Civil Engineering,8
+2012,Noise Induced Deafness,Construction,Construction of Buildings,38
+2012,Noise Induced Deafness,Construction,Specialised Construction Activites,13
+2012,Noise Induced Deafness,"Electricity, Gas and Air-Conditioning Supply","Electricity, Gas and Air-Conditioning Supply",18
+2012,Noise Induced Deafness,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",7
+2012,Noise Induced Deafness,Information & Communications,Publishing Activities,1
+2012,Noise Induced Deafness,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",14
+2012,Noise Induced Deafness,Manufacturing,"Manufacture of Food, Beverages & Tobacco",23
+2012,Noise Induced Deafness,Manufacturing,Manufacture of Furniture,4
+2012,Noise Induced Deafness,Manufacturing,Metalworking,253
+2012,Noise Induced Deafness,Manufacturing,Manufacture of Non-Metallic Mineral Products,4
+2012,Noise Induced Deafness,Manufacturing,Other Manufacturing,20
+2012,Noise Induced Deafness,Manufacturing,Manufacture of Other Transport Equipment,122
+2012,Noise Induced Deafness,Manufacturing,Manufacture of Paper Products and Printing,17
+2012,Noise Induced Deafness,Manufacturing,Manufacture od Petrochemical Products,28
+2012,Noise Induced Deafness,Manufacturing,Manufacture of Pharmaceutical & Biological Products,1
+2012,Noise Induced Deafness,Manufacturing,Manufacture of Rubber & Plastic Products,2
+2012,Noise Induced Deafness,Marine,Marine,154
+2012,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,1
+2012,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,53
+2012,Noise Induced Deafness,Transportation & Storage,Land Transport & Transport via Pipelines,3
+2012,Noise Induced Deafness,Transportation & Storage,Logistics and Transport,44
+2012,Noise Induced Deafness,Transportation & Storage,Water Transport,2
+2012,Noise Induced Deafness,"Water Supply, Sewerage & Waste Management",Sewerage,1
+2012,Noise Induced Deafness,"Water Supply, Sewerage & Waste Management","Water Collection, Treatment & Supply",3
+2012,Noise Induced Deafness,Wholesale & Retail Trade,Retail Trade,1
+2012,Noise Induced Deafness,Wholesale & Retail Trade,Wholesale Trade,9
+2012,Occupational Lung Disease,"Community, Social & Personal Services",Health Activities,1
+2012,Occupational Lung Disease,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",1
+2012,Occupational Lung Disease,Manufacturing,Metalworking,1
+2012,Occupational Lung Disease,Manufacturing,Manufacture od Petrochemical Products,1
+2012,Occupational Lung Disease,Transportation & Storage,Logistics and Transport,1
+2012,Occupational Skin Disease,Accommodation & Food Services,Accommodation,2
+2012,Occupational Skin Disease,Accommodation & Food Services,Food & Beverage Service Acitivities,2
+2012,Occupational Skin Disease,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,2
+2012,Occupational Skin Disease,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2012,Occupational Skin Disease,"Community, Social & Personal Services",Health Activities,5
+2012,Occupational Skin Disease,"Community, Social & Personal Services",Other Personal Service Activities,3
+2012,Occupational Skin Disease,"Community, Social & Personal Services",Public Administration & Defence,1
+2012,Occupational Skin Disease,Construction,Construction of Buildings,4
+2012,Occupational Skin Disease,Construction,Specialised Construction Activites,3
+2012,Occupational Skin Disease,Information & Communications,Information Service Activities,1
+2012,Occupational Skin Disease,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",5
+2012,Occupational Skin Disease,Manufacturing,"Manufacture of Food, Beverages & Tobacco",3
+2012,Occupational Skin Disease,Manufacturing,Metalworking,8
+2012,Occupational Skin Disease,Manufacturing,Manufacture of Other Transport Equipment,3
+2012,Occupational Skin Disease,Manufacturing,Manufacture of Paper Products and Printing,1
+2012,Occupational Skin Disease,Manufacturing,Manufacture od Petrochemical Products,1
+2012,Occupational Skin Disease,Manufacturing,Manufacture of Rubber & Plastic Products,1
+2012,Occupational Skin Disease,Marine,Marine,2
+2012,Occupational Skin Disease,Others,Activities Not Adequately Defined,2
+2012,Occupational Skin Disease,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,4
+2012,Occupational Skin Disease,"Professional, Scientific & Technical Activities",Scientific Research & Development,1
+2012,Occupational Skin Disease,Real Estate Activities,Real Estate Activities,1
+2012,Occupational Skin Disease,Wholesale & Retail Trade,Retail Trade,1
+2012,Others,Construction,Specialised Construction Activites,1
+2012,Others,Others,Activities Not Adequately Defined,1
+2012,Others,Real Estate Activities,Real Estate Activities,1
+2012,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Accommodation,1
+2012,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Food & Beverage Service Acitivities,3
+2012,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Health Activities,1
+2012,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Public Administration & Defence,1
+2012,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Food, Beverages & Tobacco",3
+2012,Work-related Musculoskeletal Disorders,Manufacturing,Metalworking,1
+2012,Work-related Musculoskeletal Disorders,Manufacturing,Other Manufacturing,2
+2012,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,1
+2012,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Scientific Research & Development,1
+2012,Work-related Musculoskeletal Disorders,Transportation & Storage,Land Transport & Transport via Pipelines,1
+2012,Work-related Musculoskeletal Disorders,Transportation & Storage,Warehousing & Support Activities for Transportation excluding Logistics and Transport,1
+2012,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Wholesale Trade,2
+2013,Barotrauma,Construction,Civil Engineering,3
+2013,Barotrauma,Construction,Construction of Buildings,1
+2013,Barotrauma,Construction,Specialised Construction Activites,3
+2013,Cancers,Construction,Civil Engineering,2
+2013,Compressed Air Illness,Construction,Civil Engineering,1
+2013,Compressed Air Illness,Construction,Construction of Buildings,1
+2013,Compressed Air Illness,Construction,Specialised Construction Activites,3
+2013,Ex Absorption of Chemicals,"Water Supply, Sewerage & Waste Management","Waste Collection, Treatment & Disposal Activities; Materials Recovery",4
+2013,Noise Induced Deafness,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,3
+2013,Noise Induced Deafness,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",7
+2013,Noise Induced Deafness,"Community, Social & Personal Services",Other Personal Service Activities,7
+2013,Noise Induced Deafness,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,3
+2013,Noise Induced Deafness,"Community, Social & Personal Services",Sports Activities & Amusement & Recreation Activities,1
+2013,Noise Induced Deafness,Construction,Civil Engineering,7
+2013,Noise Induced Deafness,Construction,Construction of Buildings,29
+2013,Noise Induced Deafness,Construction,Specialised Construction Activites,12
+2013,Noise Induced Deafness,"Electricity, Gas and Air-Conditioning Supply","Electricity, Gas and Air-Conditioning Supply",2
+2013,Noise Induced Deafness,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",10
+2013,Noise Induced Deafness,Information & Communications,Publishing Activities,1
+2013,Noise Induced Deafness,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",11
+2013,Noise Induced Deafness,Manufacturing,"Manufacture of Food, Beverages & Tobacco",5
+2013,Noise Induced Deafness,Manufacturing,Manufacture of Furniture,3
+2013,Noise Induced Deafness,Manufacturing,Metalworking,200
+2013,Noise Induced Deafness,Manufacturing,"Manufacture of Motor Vehicles, Trailers & Semi-Trailers",3
+2013,Noise Induced Deafness,Manufacturing,Other Manufacturing,3
+2013,Noise Induced Deafness,Manufacturing,Manufacture of Other Transport Equipment,14
+2013,Noise Induced Deafness,Manufacturing,Manufacture of Paper Products and Printing,4
+2013,Noise Induced Deafness,Manufacturing,Manufacture od Petrochemical Products,23
+2013,Noise Induced Deafness,Manufacturing,Manufacture of Pharmaceutical & Biological Products,3
+2013,Noise Induced Deafness,Manufacturing,Manufacture of Rubber & Plastic Products,6
+2013,Noise Induced Deafness,Marine,Marine,122
+2013,Noise Induced Deafness,Mining & Quarrying,Service Activities incidental to Oil & Gas Extraction excluding Surveying,2
+2013,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,1
+2013,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,61
+2013,Noise Induced Deafness,Transportation & Storage,Logistics and Transport,16
+2013,Noise Induced Deafness,Wholesale & Retail Trade,Wholesale Trade,5
+2013,Occupational Lung Disease,"Community, Social & Personal Services",Health Activities,1
+2013,Occupational Lung Disease,"Community, Social & Personal Services",Public Administration & Defence,1
+2013,Occupational Lung Disease,Manufacturing,"Manufacture of Food, Beverages & Tobacco",1
+2013,Occupational Lung Disease,Manufacturing,Manufacture of Pharmaceutical & Biological Products,1
+2013,Occupational Lung Disease,Others,Activities Not Adequately Defined,1
+2013,Occupational Lung Disease,Real Estate Activities,Real Estate Activities,3
+2013,Occupational Lung Disease,Transportation & Storage,Logistics and Transport,1
+2013,Occupational Skin Disease,Accommodation & Food Services,Food & Beverage Service Acitivities,3
+2013,Occupational Skin Disease,"Community, Social & Personal Services",Education,1
+2013,Occupational Skin Disease,"Community, Social & Personal Services",Health Activities,5
+2013,Occupational Skin Disease,"Community, Social & Personal Services",Other Personal Service Activities,4
+2013,Occupational Skin Disease,"Community, Social & Personal Services",Public Administration & Defence,2
+2013,Occupational Skin Disease,"Community, Social & Personal Services",Social Services,1
+2013,Occupational Skin Disease,"Community, Social & Personal Services",Sports Activities & Amusement & Recreation Activities,1
+2013,Occupational Skin Disease,Construction,Civil Engineering,1
+2013,Occupational Skin Disease,Construction,Construction of Buildings,5
+2013,Occupational Skin Disease,Construction,Specialised Construction Activites,2
+2013,Occupational Skin Disease,"Electricity, Gas and Air-Conditioning Supply","Electricity, Gas and Air-Conditioning Supply",1
+2013,Occupational Skin Disease,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",4
+2013,Occupational Skin Disease,Manufacturing,"Manufacture of Food, Beverages & Tobacco",3
+2013,Occupational Skin Disease,Manufacturing,Metalworking,5
+2013,Occupational Skin Disease,Manufacturing,Manufacture of Other Transport Equipment,2
+2013,Occupational Skin Disease,Manufacturing,Manufacture od Petrochemical Products,3
+2013,Occupational Skin Disease,Manufacturing,Manufacture of Pharmaceutical & Biological Products,2
+2013,Occupational Skin Disease,Marine,Marine,2
+2013,Occupational Skin Disease,Others,Activities Not Adequately Defined,1
+2013,Occupational Skin Disease,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,1
+2013,Occupational Skin Disease,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,2
+2013,Occupational Skin Disease,Transportation & Storage,Logistics and Transport,3
+2013,Occupational Skin Disease,Wholesale & Retail Trade,Wholesale Trade,2
+2013,Poisoning,Manufacturing,Manufacture of Non-Metallic Mineral Products,1
+2013,Poisoning,"Water Supply, Sewerage & Waste Management","Waste Collection, Treatment & Disposal Activities; Materials Recovery",2
+2013,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Accommodation,6
+2013,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Food & Beverage Service Acitivities,9
+2013,Work-related Musculoskeletal Disorders,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,3
+2013,Work-related Musculoskeletal Disorders,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2013,Work-related Musculoskeletal Disorders,Administrative & Support Services,Security & Investigation Activities,3
+2013,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Education,2
+2013,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Health Activities,14
+2013,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Activities of Membership Organisations,1
+2013,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Other Personal Service Activities,7
+2013,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Public Administration & Defence,2
+2013,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,4
+2013,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Social Services,4
+2013,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Sports Activities & Amusement & Recreation Activities,1
+2013,Work-related Musculoskeletal Disorders,Construction,Civil Engineering,4
+2013,Work-related Musculoskeletal Disorders,Construction,Construction of Buildings,18
+2013,Work-related Musculoskeletal Disorders,Construction,Specialised Construction Activites,4
+2013,Work-related Musculoskeletal Disorders,Financial & Insurance Services,Activities Auxiliary to Financial Service & Insurance Activites,1
+2013,Work-related Musculoskeletal Disorders,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",1
+2013,Work-related Musculoskeletal Disorders,Information & Communications,"Computer Programming, Consultancy & Related Activities",1
+2013,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",4
+2013,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Food, Beverages & Tobacco",3
+2013,Work-related Musculoskeletal Disorders,Manufacturing,Metalworking,9
+2013,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Motor Vehicles, Trailers & Semi-Trailers",1
+2013,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Non-Metallic Mineral Products,4
+2013,Work-related Musculoskeletal Disorders,Manufacturing,Other Manufacturing,6
+2013,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Other Transport Equipment,1
+2013,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Paper Products and Printing,1
+2013,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture od Petrochemical Products,1
+2013,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Pharmaceutical & Biological Products,2
+2013,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Rubber & Plastic Products,2
+2013,Work-related Musculoskeletal Disorders,Marine,Marine,5
+2013,Work-related Musculoskeletal Disorders,Others,Activities Not Adequately Defined,28
+2013,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,9
+2013,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,1
+2013,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities","Other Professional, Scientific & Technical Activities",1
+2013,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Scientific Research & Development,2
+2013,Work-related Musculoskeletal Disorders,Real Estate Activities,Real Estate Activities,12
+2013,Work-related Musculoskeletal Disorders,Transportation & Storage,Air Transport,18
+2013,Work-related Musculoskeletal Disorders,Transportation & Storage,Land Transport & Transport via Pipelines,2
+2013,Work-related Musculoskeletal Disorders,Transportation & Storage,Logistics and Transport,14
+2013,Work-related Musculoskeletal Disorders,Transportation & Storage,Postal & Courier Activities,5
+2013,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Retail Trade,6
+2013,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Wholesale Trade,14
+2014,Barotrauma,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2014,Barotrauma,Construction,Construction of Buildings,4
+2014,Barotrauma,Construction,Specialised Construction Activites,2
+2014,Barotrauma,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,1
+2014,Cancers,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,1
+2014,Cancers,Construction,Specialised Construction Activites,1
+2014,Cancers,Marine,Marine,3
+2014,Compressed Air Illness,Construction,Civil Engineering,3
+2014,Compressed Air Illness,Construction,Construction of Buildings,3
+2014,Compressed Air Illness,Construction,Specialised Construction Activites,1
+2014,Ex Absorption of Chemicals,"Water Supply, Sewerage & Waste Management","Waste Collection, Treatment & Disposal Activities; Materials Recovery",2
+2014,Infectious Disease,Construction,Construction of Buildings,1
+2014,Noise Induced Deafness,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",5
+2014,Noise Induced Deafness,"Community, Social & Personal Services",Health Activities,2
+2014,Noise Induced Deafness,"Community, Social & Personal Services",Other Personal Service Activities,1
+2014,Noise Induced Deafness,"Community, Social & Personal Services","Repair of Computers, Personal & Household Goods",2
+2014,Noise Induced Deafness,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,10
+2014,Noise Induced Deafness,Construction,Civil Engineering,11
+2014,Noise Induced Deafness,Construction,Construction of Buildings,62
+2014,Noise Induced Deafness,Construction,Specialised Construction Activites,6
+2014,Noise Induced Deafness,"Electricity, Gas and Air-Conditioning Supply","Electricity, Gas and Air-Conditioning Supply",5
+2014,Noise Induced Deafness,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",8
+2014,Noise Induced Deafness,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",14
+2014,Noise Induced Deafness,Manufacturing,"Manufacture of Food, Beverages & Tobacco",7
+2014,Noise Induced Deafness,Manufacturing,Manufacture of Furniture,5
+2014,Noise Induced Deafness,Manufacturing,Metalworking,200
+2014,Noise Induced Deafness,Manufacturing,"Manufacture of Motor Vehicles, Trailers & Semi-Trailers",2
+2014,Noise Induced Deafness,Manufacturing,Manufacture of Non-Metallic Mineral Products,1
+2014,Noise Induced Deafness,Manufacturing,Other Manufacturing,6
+2014,Noise Induced Deafness,Manufacturing,Manufacture of Other Transport Equipment,16
+2014,Noise Induced Deafness,Manufacturing,Manufacture of Paper Products and Printing,7
+2014,Noise Induced Deafness,Manufacturing,Manufacture od Petrochemical Products,22
+2014,Noise Induced Deafness,Manufacturing,Manufacture of Pharmaceutical & Biological Products,1
+2014,Noise Induced Deafness,Manufacturing,Manufacture of Rubber & Plastic Products,7
+2014,Noise Induced Deafness,Marine,Marine,139
+2014,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,1
+2014,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,28
+2014,Noise Induced Deafness,Transportation & Storage,Air Transport,1
+2014,Noise Induced Deafness,Transportation & Storage,Logistics and Transport,10
+2014,Noise Induced Deafness,Transportation & Storage,Postal & Courier Activities,10
+2014,Noise Induced Deafness,Transportation & Storage,Water Transport,1
+2014,Noise Induced Deafness,Wholesale & Retail Trade,Wholesale Trade,4
+2014,Occupational Lung Disease,Construction,Construction of Buildings,1
+2014,Occupational Lung Disease,Manufacturing,Metalworking,1
+2014,Occupational Lung Disease,Mining & Quarrying,Mining & Quarrying,1
+2014,Occupational Lung Disease,Others,Activities Not Adequately Defined,2
+2014,Occupational Skin Disease,Accommodation & Food Services,Accommodation,1
+2014,Occupational Skin Disease,Accommodation & Food Services,Food & Beverage Service Acitivities,6
+2014,Occupational Skin Disease,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,3
+2014,Occupational Skin Disease,"Community, Social & Personal Services",Health Activities,7
+2014,Occupational Skin Disease,"Community, Social & Personal Services","Libraries, Archives, Museums & Other Cultural Activities",1
+2014,Occupational Skin Disease,"Community, Social & Personal Services",Other Personal Service Activities,3
+2014,Occupational Skin Disease,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,1
+2014,Occupational Skin Disease,Construction,Construction of Buildings,5
+2014,Occupational Skin Disease,Construction,Specialised Construction Activites,1
+2014,Occupational Skin Disease,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",4
+2014,Occupational Skin Disease,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",2
+2014,Occupational Skin Disease,Manufacturing,"Manufacture of Food, Beverages & Tobacco",1
+2014,Occupational Skin Disease,Manufacturing,Manufacture of Furniture,1
+2014,Occupational Skin Disease,Manufacturing,Metalworking,7
+2014,Occupational Skin Disease,Manufacturing,Manufacture of Non-Metallic Mineral Products,1
+2014,Occupational Skin Disease,Manufacturing,Manufacture of Other Transport Equipment,1
+2014,Occupational Skin Disease,Manufacturing,Manufacture of Rubber & Plastic Products,3
+2014,Occupational Skin Disease,Others,Activities Not Adequately Defined,1
+2014,Occupational Skin Disease,Wholesale & Retail Trade,Retail Trade,1
+2014,Occupational Skin Disease,Wholesale & Retail Trade,Wholesale Trade,4
+2014,Others,Manufacturing,Manufacture od Petrochemical Products,1
+2014,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Accommodation,8
+2014,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Food & Beverage Service Acitivities,20
+2014,Work-related Musculoskeletal Disorders,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,3
+2014,Work-related Musculoskeletal Disorders,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2014,Work-related Musculoskeletal Disorders,Administrative & Support Services,Security & Investigation Activities,4
+2014,Work-related Musculoskeletal Disorders,Administrative & Support Services,"Travel Agencies, Tour Operators & Reservation Service Activities",1
+2014,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services","Creative, Arts & Entertainment Activities",1
+2014,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Education,3
+2014,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Health Activities,16
+2014,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services","Libraries, Archives, Museums & Other Cultural Activities",2
+2014,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Other Personal Service Activities,8
+2014,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,4
+2014,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Social Services,5
+2014,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Sports Activities & Amusement & Recreation Activities,2
+2014,Work-related Musculoskeletal Disorders,Construction,Civil Engineering,7
+2014,Work-related Musculoskeletal Disorders,Construction,Construction of Buildings,25
+2014,Work-related Musculoskeletal Disorders,Construction,Specialised Construction Activites,7
+2014,Work-related Musculoskeletal Disorders,Financial & Insurance Services,Activities Auxiliary to Financial Service & Insurance Activites,1
+2014,Work-related Musculoskeletal Disorders,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",7
+2014,Work-related Musculoskeletal Disorders,Information & Communications,"Computer Programming, Consultancy & Related Activities",2
+2014,Work-related Musculoskeletal Disorders,Information & Communications,Publishing Activities,1
+2014,Work-related Musculoskeletal Disorders,Information & Communications,Telecommunications,1
+2014,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",6
+2014,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Food, Beverages & Tobacco",8
+2014,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Furniture,2
+2014,Work-related Musculoskeletal Disorders,Manufacturing,Metalworking,24
+2014,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Motor Vehicles, Trailers & Semi-Trailers",1
+2014,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Non-Metallic Mineral Products,2
+2014,Work-related Musculoskeletal Disorders,Manufacturing,Other Manufacturing,3
+2014,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Other Transport Equipment,2
+2014,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture od Petrochemical Products,2
+2014,Work-related Musculoskeletal Disorders,Marine,Marine,9
+2014,Work-related Musculoskeletal Disorders,Others,Activities Not Adequately Defined,32
+2014,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,5
+2014,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,4
+2014,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Legal & Accounting Activities,1
+2014,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Scientific Research & Development,1
+2014,Work-related Musculoskeletal Disorders,Real Estate Activities,Real Estate Activities,8
+2014,Work-related Musculoskeletal Disorders,Transportation & Storage,Air Transport,24
+2014,Work-related Musculoskeletal Disorders,Transportation & Storage,Land Transport & Transport via Pipelines,2
+2014,Work-related Musculoskeletal Disorders,Transportation & Storage,Logistics and Transport,19
+2014,Work-related Musculoskeletal Disorders,Transportation & Storage,Postal & Courier Activities,7
+2014,Work-related Musculoskeletal Disorders,Transportation & Storage,Warehousing & Support Activities for Transportation excluding Logistics and Transport,1
+2014,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Retail Trade,10
+2014,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Wholesale Trade,13
+2015,Barotrauma,"Community, Social & Personal Services",Other Personal Service Activities,1
+2015,Barotrauma,Construction,Civil Engineering,1
+2015,Barotrauma,Construction,Construction of Buildings,3
+2015,Barotrauma,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,1
+2015,Barotrauma,Transportation & Storage,Air Transport,1
+2015,Cancers,Accommodation & Food Services,Food & Beverage Service Acitivities,1
+2015,Cancers,Manufacturing,Manufacture of Non-Metallic Mineral Products,2
+2015,Cancers,Marine,Marine,4
+2015,Compressed Air Illness,Construction,Civil Engineering,3
+2015,Compressed Air Illness,Construction,Construction of Buildings,9
+2015,Compressed Air Illness,Construction,Specialised Construction Activites,5
+2015,Compressed Air Illness,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,1
+2015,Ex Absorption of Chemicals,"Professional, Scientific & Technical Activities",Advertising & Market Research,1
+2015,Heat Disorder,Construction,Construction of Buildings,2
+2015,Heat Disorder,Transportation & Storage,Logistics and Transport,1
+2015,Infectious Disease,Agriculture & Fishing,Agriculture & Related Service Activities,1
+2015,Infectious Disease,"Community, Social & Personal Services",Health Activities,1
+2015,Noise Induced Deafness,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",12
+2015,Noise Induced Deafness,"Community, Social & Personal Services",Activities of Households As Employers of Domestic Personnel,3
+2015,Noise Induced Deafness,"Community, Social & Personal Services",Education,1
+2015,Noise Induced Deafness,"Community, Social & Personal Services",Other Personal Service Activities,1
+2015,Noise Induced Deafness,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,1
+2015,Noise Induced Deafness,"Community, Social & Personal Services",Sports Activities & Amusement & Recreation Activities,1
+2015,Noise Induced Deafness,Construction,Civil Engineering,18
+2015,Noise Induced Deafness,Construction,Construction of Buildings,26
+2015,Noise Induced Deafness,Construction,Specialised Construction Activites,19
+2015,Noise Induced Deafness,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",18
+2015,Noise Induced Deafness,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",6
+2015,Noise Induced Deafness,Manufacturing,"Manufacture of Food, Beverages & Tobacco",14
+2015,Noise Induced Deafness,Manufacturing,Manufacture of Furniture,1
+2015,Noise Induced Deafness,Manufacturing,Metalworking,148
+2015,Noise Induced Deafness,Manufacturing,"Manufacture of Motor Vehicles, Trailers & Semi-Trailers",1
+2015,Noise Induced Deafness,Manufacturing,Other Manufacturing,3
+2015,Noise Induced Deafness,Manufacturing,Manufacture of Other Transport Equipment,18
+2015,Noise Induced Deafness,Manufacturing,Manufacture of Paper Products and Printing,7
+2015,Noise Induced Deafness,Manufacturing,Manufacture od Petrochemical Products,22
+2015,Noise Induced Deafness,Manufacturing,Manufacture of Pharmaceutical & Biological Products,2
+2015,Noise Induced Deafness,Manufacturing,Manufacture of Rubber & Plastic Products,7
+2015,Noise Induced Deafness,Marine,Marine,113
+2015,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,1
+2015,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,10
+2015,Noise Induced Deafness,Transportation & Storage,Land Transport & Transport via Pipelines,3
+2015,Noise Induced Deafness,Transportation & Storage,Logistics and Transport,24
+2015,Noise Induced Deafness,Transportation & Storage,Postal & Courier Activities,4
+2015,Noise Induced Deafness,"Water Supply, Sewerage & Waste Management",Sewerage,1
+2015,Noise Induced Deafness,"Water Supply, Sewerage & Waste Management","Waste Collection, Treatment & Disposal Activities; Materials Recovery",2
+2015,Noise Induced Deafness,"Water Supply, Sewerage & Waste Management","Water Collection, Treatment & Supply",1
+2015,Noise Induced Deafness,Wholesale & Retail Trade,Retail Trade,1
+2015,Noise Induced Deafness,Wholesale & Retail Trade,Wholesale Trade,9
+2015,Occupational Lung Disease,"Community, Social & Personal Services",Health Activities,1
+2015,Occupational Lung Disease,Manufacturing,"Manufacture of Food, Beverages & Tobacco",1
+2015,Occupational Lung Disease,Manufacturing,Metalworking,1
+2015,Occupational Lung Disease,Manufacturing,Manufacture of Other Transport Equipment,1
+2015,Occupational Lung Disease,"Water Supply, Sewerage & Waste Management","Water Collection, Treatment & Supply",1
+2015,Occupational Skin Disease,Accommodation & Food Services,Accommodation,1
+2015,Occupational Skin Disease,Accommodation & Food Services,Food & Beverage Service Acitivities,2
+2015,Occupational Skin Disease,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,1
+2015,Occupational Skin Disease,Administrative & Support Services,Employment Activities,1
+2015,Occupational Skin Disease,"Community, Social & Personal Services",Education,1
+2015,Occupational Skin Disease,"Community, Social & Personal Services",Health Activities,13
+2015,Occupational Skin Disease,"Community, Social & Personal Services",Other Personal Service Activities,3
+2015,Occupational Skin Disease,"Community, Social & Personal Services",Public Administration & Defence,1
+2015,Occupational Skin Disease,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,2
+2015,Occupational Skin Disease,Construction,Construction of Buildings,32
+2015,Occupational Skin Disease,Construction,Specialised Construction Activites,2
+2015,Occupational Skin Disease,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",1
+2015,Occupational Skin Disease,Manufacturing,"Manufacture of Food, Beverages & Tobacco",5
+2015,Occupational Skin Disease,Manufacturing,Manufacture of Furniture,1
+2015,Occupational Skin Disease,Manufacturing,Metalworking,8
+2015,Occupational Skin Disease,Manufacturing,Manufacture of Non-Metallic Mineral Products,2
+2015,Occupational Skin Disease,Manufacturing,Other Manufacturing,1
+2015,Occupational Skin Disease,Manufacturing,Manufacture of Other Transport Equipment,1
+2015,Occupational Skin Disease,Manufacturing,Manufacture od Petrochemical Products,2
+2015,Occupational Skin Disease,Marine,Marine,2
+2015,Occupational Skin Disease,Others,Activities Not Adequately Defined,4
+2015,Occupational Skin Disease,"Professional, Scientific & Technical Activities",Scientific Research & Development,3
+2015,Poisoning,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2015,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Accommodation,4
+2015,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Food & Beverage Service Acitivities,11
+2015,Work-related Musculoskeletal Disorders,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,1
+2015,Work-related Musculoskeletal Disorders,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",5
+2015,Work-related Musculoskeletal Disorders,Administrative & Support Services,Security & Investigation Activities,1
+2015,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services","Creative, Arts & Entertainment Activities",1
+2015,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Education,4
+2015,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Health Activities,26
+2015,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services","Libraries, Archives, Museums & Other Cultural Activities",1
+2015,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Other Personal Service Activities,9
+2015,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Public Administration & Defence,1
+2015,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,3
+2015,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Social Services,3
+2015,Work-related Musculoskeletal Disorders,Construction,Civil Engineering,7
+2015,Work-related Musculoskeletal Disorders,Construction,Construction of Buildings,16
+2015,Work-related Musculoskeletal Disorders,Construction,Specialised Construction Activites,2
+2015,Work-related Musculoskeletal Disorders,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",3
+2015,Work-related Musculoskeletal Disorders,Information & Communications,"Computer Programming, Consultancy & Related Activities",1
+2015,Work-related Musculoskeletal Disorders,Information & Communications,Radio & Television Broadcasting Activities,1
+2015,Work-related Musculoskeletal Disorders,Information & Communications,Telecommunications,1
+2015,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",1
+2015,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Food, Beverages & Tobacco",10
+2015,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Furniture,2
+2015,Work-related Musculoskeletal Disorders,Manufacturing,Metalworking,22
+2015,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Non-Metallic Mineral Products,5
+2015,Work-related Musculoskeletal Disorders,Manufacturing,Other Manufacturing,7
+2015,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Other Transport Equipment,3
+2015,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Paper Products and Printing,3
+2015,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture od Petrochemical Products,4
+2015,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Wood & of Products of Wood & Cork, except Furniture; Manufacture of Articles of Straw & Plaiting Materials",1
+2015,Work-related Musculoskeletal Disorders,Marine,Marine,6
+2015,Work-related Musculoskeletal Disorders,Others,Activities Not Adequately Defined,34
+2015,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Activities of Head Offices; Management Consultancy Activities,6
+2015,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,4
+2015,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities","Other Professional, Scientific & Technical Activities",1
+2015,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Scientific Research & Development,3
+2015,Work-related Musculoskeletal Disorders,Real Estate Activities,Real Estate Activities,9
+2015,Work-related Musculoskeletal Disorders,Transportation & Storage,Air Transport,38
+2015,Work-related Musculoskeletal Disorders,Transportation & Storage,Land Transport & Transport via Pipelines,2
+2015,Work-related Musculoskeletal Disorders,Transportation & Storage,Logistics and Transport,22
+2015,Work-related Musculoskeletal Disorders,Transportation & Storage,Postal & Courier Activities,1
+2015,Work-related Musculoskeletal Disorders,Transportation & Storage,Warehousing & Support Activities for Transportation excluding Logistics and Transport,1
+2015,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Retail Trade,10
+2015,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Wholesale Trade,8
+2016,Barotrauma,Construction,Civil Engineering,7
+2016,Barotrauma,Construction,Construction of Buildings,4
+2016,Barotrauma,Construction,Specialised Construction Activites,1
+2016,Cancers,Administrative & Support Services,Security & Investigation Activities,1
+2016,Cancers,Manufacturing,Metalworking,1
+2016,Cancers,Marine,Marine,4
+2016,Cancers,Others,Activities Not Adequately Defined,2
+2016,Compressed Air Illness,Construction,Civil Engineering,8
+2016,Compressed Air Illness,Construction,Construction of Buildings,4
+2016,Compressed Air Illness,Construction,Specialised Construction Activites,1
+2016,Compressed Air Illness,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,1
+2016,Ex Absorption of Chemicals,Manufacturing,Metalworking,2
+2016,Heat Disorder,Manufacturing,"Manufacture of Food, Beverages & Tobacco",1
+2016,Heat Disorder,Marine,Marine,1
+2016,Infectious Disease,"Community, Social & Personal Services",Health Activities,1
+2016,Infectious Disease,Construction,Construction of Buildings,1
+2016,Noise Induced Deafness,Accommodation & Food Services,Food & Beverage Service Acitivities,16
+2016,Noise Induced Deafness,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2016,Noise Induced Deafness,Administrative & Support Services,Rental & Leasing Activities,1
+2016,Noise Induced Deafness,"Community, Social & Personal Services",Education,1
+2016,Noise Induced Deafness,"Community, Social & Personal Services",Health Activities,2
+2016,Noise Induced Deafness,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,2
+2016,Noise Induced Deafness,Construction,Civil Engineering,17
+2016,Noise Induced Deafness,Construction,Construction of Buildings,18
+2016,Noise Induced Deafness,Construction,Specialised Construction Activites,7
+2016,Noise Induced Deafness,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",7
+2016,Noise Induced Deafness,Manufacturing,"Manufacture of Food, Beverages & Tobacco",3
+2016,Noise Induced Deafness,Manufacturing,Manufacture of Furniture,1
+2016,Noise Induced Deafness,Manufacturing,Metalworking,89
+2016,Noise Induced Deafness,Manufacturing,Manufacture of Non-Metallic Mineral Products,5
+2016,Noise Induced Deafness,Manufacturing,Other Manufacturing,1
+2016,Noise Induced Deafness,Manufacturing,Manufacture of Other Transport Equipment,66
+2016,Noise Induced Deafness,Manufacturing,Manufacture of Paper Products and Printing,1
+2016,Noise Induced Deafness,Manufacturing,Manufacture od Petrochemical Products,8
+2016,Noise Induced Deafness,Manufacturing,Manufacture of Pharmaceutical & Biological Products,2
+2016,Noise Induced Deafness,Manufacturing,Manufacture of Rubber & Plastic Products,2
+2016,Noise Induced Deafness,Marine,Marine,44
+2016,Noise Induced Deafness,Others,Activities Not Adequately Defined,6
+2016,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,4
+2016,Noise Induced Deafness,Transportation & Storage,Land Transport & Transport via Pipelines,5
+2016,Noise Induced Deafness,Transportation & Storage,Logistics and Transport,4
+2016,Noise Induced Deafness,"Water Supply, Sewerage & Waste Management","Waste Collection, Treatment & Disposal Activities; Materials Recovery",2
+2016,Noise Induced Deafness,Wholesale & Retail Trade,Retail Trade,1
+2016,Noise Induced Deafness,Wholesale & Retail Trade,Wholesale Trade,6
+2016,Occupational Lung Disease,"Community, Social & Personal Services",Health Activities,5
+2016,Occupational Lung Disease,Construction,Specialised Construction Activites,1
+2016,Occupational Lung Disease,Manufacturing,Manufacture of Other Transport Equipment,1
+2016,Occupational Skin Disease,Accommodation & Food Services,Food & Beverage Service Acitivities,6
+2016,Occupational Skin Disease,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2016,Occupational Skin Disease,Administrative & Support Services,Security & Investigation Activities,1
+2016,Occupational Skin Disease,"Community, Social & Personal Services",Health Activities,10
+2016,Occupational Skin Disease,"Community, Social & Personal Services",Other Personal Service Activities,2
+2016,Occupational Skin Disease,"Community, Social & Personal Services",Public Administration & Defence,1
+2016,Occupational Skin Disease,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",1
+2016,Occupational Skin Disease,Manufacturing,"Manufacture of Food, Beverages & Tobacco",2
+2016,Occupational Skin Disease,Manufacturing,Metalworking,6
+2016,Occupational Skin Disease,Manufacturing,Other Manufacturing,4
+2016,Occupational Skin Disease,Manufacturing,Manufacture of Other Transport Equipment,6
+2016,Occupational Skin Disease,Manufacturing,Manufacture od Petrochemical Products,1
+2016,Occupational Skin Disease,Marine,Marine,1
+2016,Occupational Skin Disease,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,2
+2016,Occupational Skin Disease,"Professional, Scientific & Technical Activities","Legal, Accounting & Management Services",1
+2016,Occupational Skin Disease,Real Estate Activities,Real Estate Activities,1
+2016,Occupational Skin Disease,Transportation & Storage,Logistics and Transport,1
+2016,Others,"Community, Social & Personal Services",Health Activities,1
+2016,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Accommodation,8
+2016,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Food & Beverage Service Acitivities,17
+2016,Work-related Musculoskeletal Disorders,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",3
+2016,Work-related Musculoskeletal Disorders,Administrative & Support Services,Security & Investigation Activities,1
+2016,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services","Creative, Arts & Entertainment Activities",1
+2016,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Education,9
+2016,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Health Activities,31
+2016,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services","Libraries, Archives, Museums & Other Cultural Activities",1
+2016,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Other Personal Service Activities,14
+2016,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,4
+2016,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Social Services,2
+2016,Work-related Musculoskeletal Disorders,Construction,Civil Engineering,5
+2016,Work-related Musculoskeletal Disorders,Construction,Construction of Buildings,18
+2016,Work-related Musculoskeletal Disorders,Construction,Specialised Construction Activites,1
+2016,Work-related Musculoskeletal Disorders,Financial & Insurance Services,Activities Auxiliary to Financial Service & Insurance Activites,1
+2016,Work-related Musculoskeletal Disorders,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",1
+2016,Work-related Musculoskeletal Disorders,Information & Communications,"Computer Programming, Consultancy & Related Activities",1
+2016,Work-related Musculoskeletal Disorders,Information & Communications,Information Service Activities,1
+2016,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",5
+2016,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Food, Beverages & Tobacco",10
+2016,Work-related Musculoskeletal Disorders,Manufacturing,Metalworking,14
+2016,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Non-Metallic Mineral Products,2
+2016,Work-related Musculoskeletal Disorders,Manufacturing,Other Manufacturing,6
+2016,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Other Transport Equipment,3
+2016,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Paper Products and Printing,2
+2016,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture od Petrochemical Products,3
+2016,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Pharmaceutical & Biological Products,1
+2016,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Rubber & Plastic Products,3
+2016,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Textile & Wearing Apparel,1
+2016,Work-related Musculoskeletal Disorders,Marine,Marine,3
+2016,Work-related Musculoskeletal Disorders,Others,Activities Not Adequately Defined,26
+2016,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,4
+2016,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities","Legal, Accounting & Management Services",8
+2016,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Scientific Research & Development,2
+2016,Work-related Musculoskeletal Disorders,Real Estate Activities,Real Estate Activities,8
+2016,Work-related Musculoskeletal Disorders,Transportation & Storage,Air Transport,32
+2016,Work-related Musculoskeletal Disorders,Transportation & Storage,Land Transport & Transport via Pipelines,6
+2016,Work-related Musculoskeletal Disorders,Transportation & Storage,Logistics and Transport,24
+2016,Work-related Musculoskeletal Disorders,Transportation & Storage,Postal & Courier Activities,3
+2016,Work-related Musculoskeletal Disorders,Transportation & Storage,Warehousing & Support Activities for Transportation excluding Logistics and Transport,4
+2016,Work-related Musculoskeletal Disorders,Transportation & Storage,Water Transport,1
+2016,Work-related Musculoskeletal Disorders,"Water Supply, Sewerage & Waste Management","Waste Collection, Treatment & Disposal Activities; Materials Recovery",1
+2016,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Retail Trade,9
+2016,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Wholesale Trade,15
+2017,Barotrauma,Construction,Civil Engineering,7
+2017,Barotrauma,Construction,Construction of Buildings,1
+2017,Barotrauma,Construction,Specialised Construction Activites,1
+2017,Barotrauma,"Professional, Scientific & Technical Activities","Legal, Accounting & Management Services",1
+2017,Cancers,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2017,Cancers,Construction,Construction of Buildings,1
+2017,Cancers,Manufacturing,Manufacture of Furniture,1
+2017,Cancers,"Professional, Scientific & Technical Activities",Scientific Research & Development,1
+2017,Cancers,Transportation & Storage,Logistics and Transport,2
+2017,Compressed Air Illness,Construction,Civil Engineering,10
+2017,Compressed Air Illness,Construction,Construction of Buildings,1
+2017,Compressed Air Illness,Construction,Specialised Construction Activites,2
+2017,Compressed Air Illness,Marine,Marine,1
+2017,Compressed Air Illness,Transportation & Storage,Logistics and Transport,1
+2017,Ex Absorption of Chemicals,Manufacturing,Metalworking,1
+2017,Heat Disorder,Construction,Construction of Buildings,1
+2017,Infectious Disease,Others,Activities Not Adequately Defined,2
+2017,Noise Induced Deafness,Administrative & Support Services,Employment Activities,1
+2017,Noise Induced Deafness,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,3
+2017,Noise Induced Deafness,Construction,Civil Engineering,10
+2017,Noise Induced Deafness,Construction,Construction of Buildings,21
+2017,Noise Induced Deafness,Construction,Specialised Construction Activites,29
+2017,Noise Induced Deafness,"Electricity, Gas and Air-Conditioning Supply","Electricity, Gas and Air-Conditioning Supply",4
+2017,Noise Induced Deafness,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",4
+2017,Noise Induced Deafness,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",7
+2017,Noise Induced Deafness,Manufacturing,"Manufacture of Food, Beverages & Tobacco",3
+2017,Noise Induced Deafness,Manufacturing,Manufacture of Non-Metallic Mineral Products,1
+2017,Noise Induced Deafness,Manufacturing,Manufacture of Other Transport Equipment,53
+2017,Noise Induced Deafness,Manufacturing,Manufacture of Paper Products and Printing,20
+2017,Noise Induced Deafness,Manufacturing,Manufacture of Petrochemical Products,12
+2017,Noise Induced Deafness,Manufacturing,Manufacture of Pharmaceutical & Biological Products,4
+2017,Noise Induced Deafness,Manufacturing,Manufacture of Textile & Wearing Apparel,5
+2017,Noise Induced Deafness,Manufacturing,Metalworking,79
+2017,Noise Induced Deafness,Manufacturing,Other Manufacturing,7
+2017,Noise Induced Deafness,Marine,Marine,44
+2017,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,4
+2017,Noise Induced Deafness,Transportation & Storage,Land Transport & Transport via Pipelines,3
+2017,Noise Induced Deafness,Transportation & Storage,Logistics and Transport,10
+2017,Noise Induced Deafness,Transportation & Storage,Postal & Courier Activities,1
+2017,Noise Induced Deafness,Wholesale & Retail Trade,Wholesale Trade,4
+2017,Occupational Lung Disease,Construction,Specialised Construction Activites,1
+2017,Occupational Skin Disease,Accommodation & Food Services,Accommodation,1
+2017,Occupational Skin Disease,Accommodation & Food Services,Food & Beverage Service Acitivities,2
+2017,Occupational Skin Disease,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,1
+2017,Occupational Skin Disease,"Community, Social & Personal Services",Health Activities,8
+2017,Occupational Skin Disease,"Community, Social & Personal Services",Other Personal Service Activities,3
+2017,Occupational Skin Disease,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,1
+2017,Occupational Skin Disease,Construction,Civil Engineering,1
+2017,Occupational Skin Disease,Construction,Construction of Buildings,3
+2017,Occupational Skin Disease,Construction,Specialised Construction Activites,1
+2017,Occupational Skin Disease,Manufacturing,Manufacture of Other Transport Equipment,3
+2017,Occupational Skin Disease,Manufacturing,Manufacture of Petrochemical Products,1
+2017,Occupational Skin Disease,Manufacturing,Manufacture of Pharmaceutical & Biological Products,1
+2017,Occupational Skin Disease,Manufacturing,Manufacture of Rubber & Plastic Products,2
+2017,Occupational Skin Disease,Manufacturing,Metalworking,7
+2017,Occupational Skin Disease,Manufacturing,Other Manufacturing,33
+2017,Occupational Skin Disease,Marine,Marine,2
+2017,Occupational Skin Disease,"Professional, Scientific & Technical Activities",Scientific Research & Development,2
+2017,Occupational Skin Disease,Real Estate Activities,Real Estate Activities,1
+2017,Occupational Skin Disease,Wholesale & Retail Trade,Retail Trade,1
+2017,Occupational Skin Disease,Wholesale & Retail Trade,Wholesale Trade,4
+2017,Others,Manufacturing,Manufacture of Furniture,1
+2017,Poisoning,Accommodation & Food Services,Accommodation,18
+2017,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Accommodation,9
+2017,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Food & Beverage Service Acitivities,16
+2017,Work-related Musculoskeletal Disorders,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,2
+2017,Work-related Musculoskeletal Disorders,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",3
+2017,Work-related Musculoskeletal Disorders,Administrative & Support Services,Rental & Leasing Activities,1
+2017,Work-related Musculoskeletal Disorders,Administrative & Support Services,Security & Investigation Activities,2
+2017,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Activities of Extra-Territorial Organisation & Bodies,1
+2017,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Education,8
+2017,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Health Activities,29
+2017,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services","Libraries, Archives, Museums & Other Cultural Activities",2
+2017,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Other Personal Service Activities,9
+2017,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Public Administration & Defence,3
+2017,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,3
+2017,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Social Services,1
+2017,Work-related Musculoskeletal Disorders,Construction,Civil Engineering,2
+2017,Work-related Musculoskeletal Disorders,Construction,Construction of Buildings,27
+2017,Work-related Musculoskeletal Disorders,Construction,Specialised Construction Activites,4
+2017,Work-related Musculoskeletal Disorders,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",7
+2017,Work-related Musculoskeletal Disorders,Information & Communications,Telecommunications,1
+2017,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",9
+2017,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Food, Beverages & Tobacco",10
+2017,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Furniture,2
+2017,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Non-Metallic Mineral Products,3
+2017,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Other Transport Equipment,1
+2017,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Paper Products and Printing,1
+2017,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Petrochemical Products,1
+2017,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Pharmaceutical & Biological Products,1
+2017,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Rubber & Plastic Products,1
+2017,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Wood & of Products of Wood & Cork, except Furniture; Manufacture of Articles of Straw & Plaiting Materials",1
+2017,Work-related Musculoskeletal Disorders,Manufacturing,Metalworking,17
+2017,Work-related Musculoskeletal Disorders,Manufacturing,Other Manufacturing,6
+2017,Work-related Musculoskeletal Disorders,Marine,Marine,2
+2017,Work-related Musculoskeletal Disorders,Others,Activities Not Adequately Defined,42
+2017,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,5
+2017,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities","Legal, Accounting & Management Services",4
+2017,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Scientific Research & Development,2
+2017,Work-related Musculoskeletal Disorders,Real Estate Activities,Real Estate Activities,12
+2017,Work-related Musculoskeletal Disorders,Transportation & Storage,Air Transport,36
+2017,Work-related Musculoskeletal Disorders,Transportation & Storage,Land Transport & Transport via Pipelines,2
+2017,Work-related Musculoskeletal Disorders,Transportation & Storage,Logistics and Transport,26
+2017,Work-related Musculoskeletal Disorders,Transportation & Storage,Postal & Courier Activities,4
+2017,Work-related Musculoskeletal Disorders,"Water Supply, Sewerage & Waste Management",Sewerage,1
+2017,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Retail Trade,10
+2017,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Wholesale Trade,8
+2018,Barotrauma,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2018,Barotrauma,"Community, Social & Personal Services",Health Activities,1
+2018,Barotrauma,Construction,Civil Engineering,1
+2018,Barotrauma,Construction,Construction of Buildings,1
+2018,Barotrauma,Transportation & Storage,Logistics and Transport,1
+2018,Cancers,Construction,Civil Engineering,1
+2018,Cancers,Manufacturing,Manufacture of Non-Metallic Mineral Products,2
+2018,Cancers,Marine,Marine,1
+2018,Cancers,Others,Activities Not Adequately Defined,1
+2018,Cancers,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,1
+2018,Compressed Air Illness,Construction,Civil Engineering,1
+2018,Compressed Air Illness,Construction,Construction of Buildings,1
+2018,Heat Disorder,"Community, Social & Personal Services","Libraries, Archives, Museums & Other Cultural Activities",1
+2018,Heat Disorder,Construction,Construction of Buildings,1
+2018,Heat Disorder,Marine,Marine,1
+2018,Infectious Disease,"Community, Social & Personal Services",Health Activities,1
+2018,Infectious Disease,"Community, Social & Personal Services",Other Personal Service Activities,2
+2018,Noise Induced Deafness,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2018,Noise Induced Deafness,Administrative & Support Services,Rental & Leasing Activities,3
+2018,Noise Induced Deafness,"Community, Social & Personal Services",Education,1
+2018,Noise Induced Deafness,"Community, Social & Personal Services",Repair & Maintenance of Vehicles,2
+2018,Noise Induced Deafness,Construction,Civil Engineering,7
+2018,Noise Induced Deafness,Construction,Construction of Buildings,2
+2018,Noise Induced Deafness,Construction,Specialised Construction Activites,13
+2018,Noise Induced Deafness,Information & Communications,"Computer Programming, Consultancy & Related Activities",1
+2018,Noise Induced Deafness,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",3
+2018,Noise Induced Deafness,Manufacturing,"Manufacture of Food, Beverages & Tobacco",3
+2018,Noise Induced Deafness,Manufacturing,Manufacture of Other Transport Equipment,15
+2018,Noise Induced Deafness,Manufacturing,Manufacture of Paper Products and Printing,7
+2018,Noise Induced Deafness,Manufacturing,Manufacture of Petrochemical Products,4
+2018,Noise Induced Deafness,Manufacturing,Manufacture of Pharmaceutical & Biological Products,2
+2018,Noise Induced Deafness,Manufacturing,Manufacture of Rubber & Plastic Products,2
+2018,Noise Induced Deafness,Manufacturing,Metalworking,49
+2018,Noise Induced Deafness,Manufacturing,Other Manufacturing,1
+2018,Noise Induced Deafness,Marine,Marine,32
+2018,Noise Induced Deafness,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,1
+2018,Noise Induced Deafness,"Professional, Scientific & Technical Activities","Legal, Accounting & Management Services",1
+2018,Noise Induced Deafness,Transportation & Storage,Land Transport & Transport via Pipelines,2
+2018,Noise Induced Deafness,Transportation & Storage,Logistics and Transport,9
+2018,Noise Induced Deafness,Wholesale & Retail Trade,Wholesale Trade,2
+2018,Occupational Lung Disease,Manufacturing,Manufacture of Non-Metallic Mineral Products,1
+2018,Occupational Lung Disease,Manufacturing,Manufacture of Rubber & Plastic Products,1
+2018,Occupational Lung Disease,Manufacturing,Metalworking,1
+2018,Occupational Lung Disease,Manufacturing,Other Manufacturing,1
+2018,Occupational Lung Disease,Others,Activities Not Adequately Defined,1
+2018,Occupational Lung Disease,Real Estate Activities,Real Estate Activities,1
+2018,Occupational Skin Disease,Accommodation & Food Services,Accommodation,2
+2018,Occupational Skin Disease,Accommodation & Food Services,Food & Beverage Service Acitivities,2
+2018,Occupational Skin Disease,"Community, Social & Personal Services",Activities of Membership Organisations,1
+2018,Occupational Skin Disease,"Community, Social & Personal Services",Education,1
+2018,Occupational Skin Disease,"Community, Social & Personal Services",Health Activities,15
+2018,Occupational Skin Disease,"Community, Social & Personal Services",Other Personal Service Activities,3
+2018,Occupational Skin Disease,"Community, Social & Personal Services",Social Services,1
+2018,Occupational Skin Disease,Construction,Civil Engineering,1
+2018,Occupational Skin Disease,Construction,Construction of Buildings,1
+2018,Occupational Skin Disease,Construction,Specialised Construction Activites,1
+2018,Occupational Skin Disease,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",2
+2018,Occupational Skin Disease,Manufacturing,Manufacture of Other Transport Equipment,2
+2018,Occupational Skin Disease,Manufacturing,Manufacture of Petrochemical Products,1
+2018,Occupational Skin Disease,Manufacturing,Manufacture of Pharmaceutical & Biological Products,3
+2018,Occupational Skin Disease,Manufacturing,Metalworking,5
+2018,Occupational Skin Disease,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,1
+2018,Occupational Skin Disease,Real Estate Activities,Real Estate Activities,1
+2018,Occupational Skin Disease,Transportation & Storage,Logistics and Transport,3
+2018,Occupational Skin Disease,Wholesale & Retail Trade,Retail Trade,1
+2018,Occupational Skin Disease,Wholesale & Retail Trade,Wholesale Trade,1
+2018,Others,Information & Communications,"Motion Picture, Video & Television Programme Production, Sound Recording & Music Publishing Activities",1
+2018,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Accommodation,12
+2018,Work-related Musculoskeletal Disorders,Accommodation & Food Services,Food & Beverage Service Acitivities,25
+2018,Work-related Musculoskeletal Disorders,Administrative & Support Services,Cleaning & Landscape Maintenance Activities,3
+2018,Work-related Musculoskeletal Disorders,Administrative & Support Services,Employment Activities,1
+2018,Work-related Musculoskeletal Disorders,Administrative & Support Services,"Office Administrative, Office Support & Other Business Support Activities",1
+2018,Work-related Musculoskeletal Disorders,Administrative & Support Services,Security & Investigation Activities,3
+2018,Work-related Musculoskeletal Disorders,Agriculture & Fishing,Agriculture & Related Service Activities,1
+2018,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Activities of Membership Organisations,2
+2018,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Education,2
+2018,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Health Activities,28
+2018,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services","Libraries, Archives, Museums & Other Cultural Activities",2
+2018,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Other Personal Service Activities,6
+2018,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Social Services,3
+2018,Work-related Musculoskeletal Disorders,"Community, Social & Personal Services",Sports Activities & Amusement & Recreation Activities,3
+2018,Work-related Musculoskeletal Disorders,Construction,Civil Engineering,6
+2018,Work-related Musculoskeletal Disorders,Construction,Construction of Buildings,13
+2018,Work-related Musculoskeletal Disorders,Construction,Specialised Construction Activites,5
+2018,Work-related Musculoskeletal Disorders,Financial & Insurance Services,"Financial Service Activities, Except Insurance & Pension Funding",3
+2018,Work-related Musculoskeletal Disorders,Information & Communications,"Computer Programming, Consultancy & Related Activities",2
+2018,Work-related Musculoskeletal Disorders,Information & Communications,"Motion Picture, Video & Television Programme Production, Sound Recording & Music Publishing Activities",1
+2018,Work-related Musculoskeletal Disorders,Information & Communications,Publishing Activities,1
+2018,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Computer, Electronic & Optical Products",3
+2018,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Food, Beverages & Tobacco",19
+2018,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Furniture,4
+2018,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Non-Metallic Mineral Products,1
+2018,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Other Transport Equipment,3
+2018,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Paper Products and Printing,1
+2018,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Pharmaceutical & Biological Products,3
+2018,Work-related Musculoskeletal Disorders,Manufacturing,Manufacture of Rubber & Plastic Products,3
+2018,Work-related Musculoskeletal Disorders,Manufacturing,"Manufacture of Wood & of Products of Wood & Cork, except Furniture; Manufacture of Articles of Straw & Plaiting Materials",2
+2018,Work-related Musculoskeletal Disorders,Manufacturing,Metalworking,20
+2018,Work-related Musculoskeletal Disorders,Manufacturing,Other Manufacturing,7
+2018,Work-related Musculoskeletal Disorders,Marine,Marine,1
+2018,Work-related Musculoskeletal Disorders,Others,Activities Not Adequately Defined,40
+2018,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Architectural & Engineering Activities; Technical Testing & Analysis,2
+2018,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities","Legal, Accounting & Management Services",14
+2018,Work-related Musculoskeletal Disorders,"Professional, Scientific & Technical Activities",Scientific Research & Development,1
+2018,Work-related Musculoskeletal Disorders,Real Estate Activities,Real Estate Activities,10
+2018,Work-related Musculoskeletal Disorders,Transportation & Storage,Air Transport,3
+2018,Work-related Musculoskeletal Disorders,Transportation & Storage,Land Transport & Transport via Pipelines,1
+2018,Work-related Musculoskeletal Disorders,Transportation & Storage,Logistics and Transport,33
+2018,Work-related Musculoskeletal Disorders,Transportation & Storage,Postal & Courier Activities,3
+2018,Work-related Musculoskeletal Disorders,"Water Supply, Sewerage & Waste Management","Water Collection, Treatment & Supply",1
+2018,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Retail Trade,12
+2018,Work-related Musculoskeletal Disorders,Wholesale & Retail Trade,Wholesale Trade,16
