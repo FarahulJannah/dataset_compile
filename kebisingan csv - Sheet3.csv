@@ -1,0 +1,48 @@
+No.,Bagian ,Waktu Pengukuran,Shift,Kebisingan (L),Keterangan,Waktu max terpapar (Ti) (jam),Dosis kebisingan (D),DND (%)
+1,Fuel & Ash  Operator ,23.45-08.25,3,79.5,dibawah NAB,28.51,0.28,28.06
+2,Fuel & Ash  Operator ,07.40-15.00,1,79.1,dibawah NAB,31.27,0.26,25.58
+3,Fuel & Ash  Operator ,15.50-23.00,2,84.7,dibawah NAB,8.57,0.93,93.30
+4,Fuel & Ash  Operator ,23.05-07.38,3,81.5,dibawah NAB,17.96,0.45,44.54
+5,Fuel & Ash  Operator ,08.40-14.29,0,70.3,dibawah NAB,238.86,0.03,3.35
+6,Fuel & Ash  Operator ,15.54-23.20,2,71.9,dibawah NAB,165.04,0.05,4.85
+7,Fuel & Ash  Operator ,15.44-20.16,2,79.8,dibawah NAB,26.60,0.30,30.08
+8,Fuel & Ash  Operator ,23.25-08.21,3,84.1,dibawah NAB,9.85,0.81,81.23
+9,Fuel & Ash  Operator ,08.31-15.51,0,81.1,dibawah NAB,19.70,0.41,40.61
+10,Fuel & Ash  Operator ,23.14-07.00,3,77.5,dibawah NAB,45.25,0.18,17.68
+11,Fuel & Ash  Operator ,08.30-15.30,0,74.2,dibawah NAB,97.01,0.08,8.25
+12,Maintenance ,07.40-16.00,1,74.6,dibawah NAB,88.44,0.09,9.05
+13,Maintenance ,07.45-15.50,1,73.9,dibawah NAB,103.97,0.08,7.69
+14,Maintenance ,07.55-15.20,1,93.1,diatas NAB,1.23,6.50,649.80
+15,Maintenance ,09.40-16.01,1,84.8,dibawah NAB,8.38,0.95,95.48
+16,Maintenance ,07.57-16.15,1,85.1,diatas NAB,7.82,1.02,102.34
+17,Maintenance ,08.24-15.24,0,75.8,dibawah NAB,67.03,0.12,11.94
+18,Maintenance ,08.13-16.05,0,84.9,dibawah NAB,8.19,0.98,97.72
+19,Maintenance ,08.22-15.04,0,83.8,dibawah NAB,10.56,0.76,75.79
+20,Maintenance ,16.00-23.08,2,79.8,dibawah NAB,26.60,0.30,30.08
+21,Maintenance ,07.50-16.00,0,87.6,diatas NAB,4.39,1.82,182.34
+22,Maintenance ,07.49-15.30,0,88.7,diatas NAB,3.40,2.35,235.11
+23,Maintenance ,07.50-15.30,0,87.8,diatas NAB,4.19,1.91,190.97
+24,Production Operator  Turbin,15.09-23.46,2,88.5,diatas NAB,3.56,2.24,224.49
+25,Production Operator  Turbin,16.13-00.10,2,73.4,dibawah NAB,116.70,0.07,6.86
+26,Production Operator  Turbin,23.48-07.00,3,86.3,diatas NAB,5.92,1.35,135.03
+27,Production Operator  Turbin,00.13-07.00,3,84.3,dibawah NAB,9.40,0.85,85.07
+28,Production Operator  Turbin,07.30-16.00,1,87.1,diatas NAB,4.92,1.62,162.45
+29,Production Operator  Turbin,07.30-15.00,1,76.3,dibawah NAB,59.71,0.13,13.40
+30,Production Operator Boiler,23.10-07.35,3,69.7,dibawah NAB,274.37,0.03,2.92
+31,Production Operator Boiler,07.25-15.00,1,57.8,dibawah NAB,4289.72,0.00,0.19
+32,Production Operator Boiler,15.15-22.35,2,57.6,dibawah NAB,4492.60,0.00,0.18
+33,Production Operator Boiler,23.20-07.00,3,55.8,dibawah NAB,6809.50,0.00,0.12
+34,Production Operator Boiler,07.55-15.00,1,61.5,dibawah NAB,1824.56,0.00,0.44
+35,Production Operator Boiler,16.35-23.00,2,58.9,dibawah NAB,3326.99,0.00,0.24
+36,Production Operator Boiler,23.29-07.21,3,88.5,diatas NAB,3.56,2.24,224.49
+37,Production Operator Boiler,07.23-14.56,1,84.6,dibawah NAB,8.77,0.91,91.17
+38,Production Operator Boiler,15.33-23.00,2,82.5,dibawah NAB,14.25,0.56,56.12
+39,Production Operator Boiler,15.54-07.38,2,87,diatas NAB,5.04,1.59,158.74
+40,Production Operator Boiler,07.42-15.37,1,82.5,dibawah NAB,14.25,0.56,56.12
+41,Production Operator Boiler,15.38-21.38,2,81,dibawah NAB,20.16,0.40,39.69
+42,Production Operator Boiler,15.18-22.51,2,83.9,dibawah NAB,10.31,0.78,77.56
+43,Production Operator Boiler,22.58-07.02,3,75.5,dibawah NAB,71.84,0.11,11.14
+44,Production Operator Boiler,07.23-14.37,1,86.4,diatas NAB,5.79,1.38,138.19
+45,Production Operator Boiler,15.40-23.12,2,89.6,diatas NAB,2.76,2.89,289.45
+46,Production Operator Boiler,23.16-07.50,3,85.1,diatas NAB,7.82,1.02,102.34
+47,Production Operator Boiler,08.14-14.44,0,84.5,dibawah NAB,8.98,0.89,89.09
